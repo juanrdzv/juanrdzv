@@ -35,8 +35,7 @@ Currently working with multi-sport data platforms, CMS modernization, and AI-pow
 #### 📊 Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=juanrdzv&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanrdzv&layout=compact&langs_count=7&theme=github_dark"/>
+  <img src="https://streak-stats.demolab.com/?user=juanrdzv&theme=github-dark-blue" alt="GitHub Streak"/>
 </p>
 
 ---
