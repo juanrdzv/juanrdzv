@@ -32,11 +32,9 @@ Currently working with multi-sport data platforms, CMS modernization, and AI-pow
 
 ---
 
-#### 📊 Stats
+#### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=juanrdzv&theme=github-dark-blue" alt="GitHub Streak"/>
-</p>
+![Juan's GitHub activity](https://ghchart.rshah.org/juanrdzv)
 
 ---
 
